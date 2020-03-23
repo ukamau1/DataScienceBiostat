@@ -31,6 +31,6 @@
 5. Line Break: end line with 2 spaces and start new line
 6. \**Bold text**
 7. \*italic text*
-8. ***bold & italic***
-9. > Block Quote 
-10. >> Embedded Block Quote
+8. \***bold & italic***
+9. \> Block Quote 
+10. \>> Embedded Block Quote
