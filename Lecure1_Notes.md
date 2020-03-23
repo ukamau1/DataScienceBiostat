@@ -23,15 +23,15 @@
 9. Enter: ***git push origin master*** (commits changes to remote repository)
 10. Enter: ***git rm filename*** (opposite of git add... same steps going fwd)
 
-> Markdown Language 
-    a. # Heading (More hashtags -> smaller heading text)
-    c. -Bullet Point
-    d.     -Indented Bullet
-    e. Separate paragraphs: with an empty line
-    f. Line Break: end line with 2 spaces and start new line
-    g. **Bold text**
-    h. *italic text*
-    i. ***bold & italic***
-    j. > Block Quote 
-    k. >> Embedded Block Quote
+#### Markdown Language 
+1. # Heading (More hashtags -> smaller heading text)
+2. -Bullet Point
+3.     -Indented Bullet
+4. Separate paragraphs: with an empty line
+5. Line Break: end line with 2 spaces and start new line
+6. **Bold text**
+7. *italic text*
+8. ***bold & italic***
+9. > Block Quote 
+10. >> Embedded Block Quote
 
