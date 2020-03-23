@@ -25,13 +25,12 @@
 
 #### Markdown Language 
 1. "#" Heading (More hashtags -> smaller heading text)
-2. -Bullet Point
-3.     -Indented Bullet
-4. Separate paragraphs: with an empty line
+2. "*"Bullet Point
+3. (tab)"*" Indented Bullet
+4. Separate paragraphs: empty line
 5. Line Break: end line with 2 spaces and start new line
-6. **Bold text**
-7. *italic text*
-8. ***bold & italic***
-9. > Block Quote 
-10. >> Embedded Block Quote
-
+6. "**"Bold text"**"
+7. "*"italic text"*"
+8. "***"bold & italic"***"
+9. ">" Block Quote 
+10. ">>" Embedded Block Quote
