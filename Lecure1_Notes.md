@@ -24,9 +24,9 @@
 10. Enter: ***git rm filename*** (opposite of git add... same steps going fwd)
 
 #### Markdown Language 
-1. # Heading (More hashtags -> smaller heading text)
-2. *Bullet Point
-3. (tab)* Indented Bullet
+1. \# Heading (More hashtags -> smaller heading text)
+2. \*Bullet Point
+3. \(tab)* Indented Bullet
 4. Separate paragraphs: empty line
 5. Line Break: end line with 2 spaces and start new line
 6. \**Bold text**
