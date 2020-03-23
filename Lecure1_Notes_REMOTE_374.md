@@ -45,4 +45,3 @@
 4. pwd: print working directory
 5. cd: change directory 
 6. clear: clear terminal 
->>>>>>> 695872a518800871ff82957b8a846b867504f1d9
