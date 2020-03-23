@@ -1,8 +1,8 @@
 #!/usr/bin/env
 Lecture 1
 
-1. R Studio Cloud 
-     PS1=">" (Changes the Terminal Prompt)
+1. R Studio Cloud  
+-PS1=">" (Changes the Terminal Prompt)
      
 2. Creating a Repository
      a. Create New
