@@ -5,9 +5,9 @@ Lecture 1
      PS1=">" (Changes the Terminal Prompt)
      
 2. Creating a Repository
-    a. Create New
-    b. Title & Brief Description
-    c. ALWAYS initialize with a README
+     a. Create New
+     b. Title & Brief Description
+     c. ALWAYS initialize with a README
     
 3. Cloning a Repository & Editing in R Studio Cloud
     a. Copy Repository http link
