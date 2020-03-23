@@ -4,7 +4,7 @@
 
 1. PS1=">" (Changes the Terminal Prompt)
      
-> Creating a Repository  
+#### Creating a Repository  
 
 1. Create New
 2. Title & Brief Description
