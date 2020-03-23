@@ -1,9 +1,9 @@
 # Lecture 1
 
-## R Studio Cloud  
+> R Studio Cloud  
 1. PS1=">" (Changes the Terminal Prompt)
      
-2. Creating a Repository
+####Creating a Repository
      a. Create New
      b. Title & Brief Description
      c. ALWAYS initialize with a README
