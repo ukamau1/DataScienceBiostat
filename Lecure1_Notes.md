@@ -34,3 +34,6 @@
 8. \***bold & italic***
 9. \> Block Quote 
 10. \>> Embedded Block Quote
+
+#### R Notebook
+1. **Uses Markdown and embedded R code to make analytical presentation slides**
