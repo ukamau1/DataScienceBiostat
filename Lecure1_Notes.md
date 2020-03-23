@@ -1,4 +1,4 @@
-# Lecture Notes 
+# Lecture 1 
 
 #### R Studio Cloud
 
