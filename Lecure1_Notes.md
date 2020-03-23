@@ -1,6 +1,6 @@
 # Lecture 1
 
-> R Studio Cloud
+#### R Studio Cloud
 
 1. PS1=">" (Changes the Terminal Prompt)
      
