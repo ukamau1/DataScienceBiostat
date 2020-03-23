@@ -37,3 +37,11 @@
 
 #### R Notebook
 1. **Uses Markdown and embedded R code to make analytical presentation slides**
+
+#### Unix 
+1. Format: [Command] [Optons] [Argument]
+2. echo: print
+3. ls: list conents on working directory
+4. pwd: print working directory
+5. cd: change directory 
+6. clear: clear terminal 
