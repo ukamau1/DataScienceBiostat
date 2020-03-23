@@ -4,10 +4,11 @@
 
 1. PS1=">" (Changes the Terminal Prompt)
      
-> Creating a Repository
-     a. Create New
-     b. Title & Brief Description
-     c. ALWAYS initialize with a README
+> Creating a Repository  
+
+1. Create New
+2. Title & Brief Description
+3. ALWAYS initialize with a README
     
 > Cloning a Repository & Editing in R Studio Cloud
     a. Copy Repository http link
