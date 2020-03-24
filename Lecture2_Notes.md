@@ -34,7 +34,7 @@
       * cat filename1 filename2 **>** filename3 (adds bothfiles to a new file)
          * **If the file already exists, you will overwrite it!!**
             * Use **>>** to append to the **END** of the file
-16. **control + __**
+16. **control + ___** Shortcuts 
       * **a**: moves cursor to to the beginning of the line
       * **e**: cursor to end of line
       * **k**: deletes everything from the cursor through the end of the line
