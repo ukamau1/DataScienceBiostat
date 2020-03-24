@@ -14,3 +14,11 @@
       * **..**: one directry back 
 6. **mv**: used to change file names 
       * mv filename newfile name 
+      * mv filename directoryPath/newfilename (moving a file)
+7. **rm**: remove a file
+      * -r (remove a directory)
+      * -f (force remove without pesky recursive questions)
+7. **PS1=">"**: changes the prompt to a karrat 
+8. **~**: Points to whatever the HOME variable is 
+9. **alias command** lets you create a unique command
+      * alias ls="ls -al --color"
