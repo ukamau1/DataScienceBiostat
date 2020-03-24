@@ -38,5 +38,6 @@
       * **a**: moves cursor to to the beginning of the line
       * **e**: cursor to end of line
       * **k**: deletes everything from the cursor through the end of the line
+17. 
       
       
