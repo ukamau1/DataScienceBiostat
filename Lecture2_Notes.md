@@ -32,7 +32,7 @@
 15. **cat filename**: print to screen
       * cat filename1 **filename2**: concatinate files & print
       * cat filename1 filename2 **>** filename3 (adds bothfiles to a new file)
-         * **If the file already exists, you will overwrite it!!**
+         * ###### **If the file already exists, you will overwrite it!!**
 16. **control + __**
       * **a**: moves cursor to to the beginning of the line
       * **e**: cursor to end of line
