@@ -38,6 +38,11 @@
       * **a**: moves cursor to to the beginning of the line
       * **e**: cursor to end of line
       * **k**: deletes everything from the cursor through the end of the line
-17. 
+17. Using \* in file/directory names
+      * cp *.txt newfile: files ending in .txt (in current working directory) get coppied to a newfile
+18. **Making Bash Scripts**
+      * Head the file with **\#!/bin/bash**
+      * **chmod a +x filename**
+      * **./filename** : run script
       
       
